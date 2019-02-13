@@ -4,12 +4,13 @@
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
-##About
+## About
 This template allows you to create a Kafka cluster on a HDInsight cluster.   
 It also installs an edge node and installs the Schema Registry on an edge node.   
 For more on Azure HDInsight templates, you can visit:   
 https://docs.microsoft.com/en-us/azure/templates/microsoft.hdinsight/allversions 
-##Post Deploy Items
+
+## Post Deploy Items
 
  - If you can't login with the setup credentials, you can re-setup like below:  
    - From the cluster home page, select Script actions under Settings.  

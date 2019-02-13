@@ -1,0 +1,9 @@
+{
+  "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+  "type": "QuickStart",
+  "itemDisplayName": "Deploy Kafka on HDInsight with Confluent Schema Registry",
+  "description": "Kafka Cluster with Schema Registry on HDInsight",
+  "summary": "This template allows you to create a Kafka cluster on a HDInsight cluster. It also installs an edge node and installs the Schema Registry on an edge node. ",
+  "githubUsername": "vcivelek",
+  "dateUpdated": "2018-02-12"
+}

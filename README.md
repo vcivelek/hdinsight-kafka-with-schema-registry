@@ -11,7 +11,6 @@ For more on Azure HDInsight templates, you can visit:
 https://docs.microsoft.com/en-us/azure/templates/microsoft.hdinsight/allversions 
 
 ## Post Deploy Items
-
  - If you can't login with the setup credentials, you can re-setup like below:  
    - From the cluster home page, select Script actions under Settings.  
    - From the Script Actions blade, select Submit New.  
